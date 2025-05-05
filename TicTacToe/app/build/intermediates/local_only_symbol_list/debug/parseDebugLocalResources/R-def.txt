@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color Hot_blue
+color Plum
+color light_blue
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id a1
+id a2
+id a3
+id b1
+id b2
+id b3
+id c1
+id c2
+id c3
+id linearLayout
+id main
+id resetButton
+id turnTV
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.TicTacToe
+style Theme.TicTacToe
+style column
+style horizontalLine
+style row
+style verticalLine
+xml backup_rules
+xml data_extraction_rules
